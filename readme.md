@@ -62,7 +62,7 @@ Dette er første udgave af det endelige produkt. Blomsten kan manipuleres med va
 
 #####5. `cylinder`
 
-<del> Er knapt påbegyndt. Formålet er at lave et cylinder objekt, så blomsten kan får en 3D stilk i stedet for den `line()` der er brugt nu.
+<s> Er knapt påbegyndt. Formålet er at lave et cylinder objekt, så blomsten kan får en 3D stilk i stedet for den `line()` der er brugt nu.</s>
 
 Jeg har påbegyndt Cylinder som et projekt for sig selv.
 
