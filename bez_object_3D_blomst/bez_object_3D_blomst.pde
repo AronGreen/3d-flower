@@ -45,6 +45,7 @@ void draw()  {
   background(200);
   translate(250,250);
   rotateX(frameCount / 200.0);
+  rotateZ(frameCount / 100.0);
   // Nu kaldes funktionen display(), som er skrevet ind i 
   // objektet EZBez.
   fill(255,0,0);
